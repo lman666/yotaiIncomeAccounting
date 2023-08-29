@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "永泰数策",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-forms": "/uni_modules/uni-forms/components/uni-forms/uni-forms",
+    "uni-forms-item": "/uni_modules/uni-forms/components/uni-forms-item/uni-forms-item",
+    "yotai-row-cell": "/uni_modules/Yotai-rowCell/components/Yotai-rowCell/Yotai-rowCell",
+    "yotai-block-cell": "/uni_modules/Yotai-blockCell/components/Yotai-blockCell/Yotai-blockCell",
+    "yotai-footer": "/uni_modules/Yotai-footer/components/Yotai-footer/Yotai-footer"
+  }
+}

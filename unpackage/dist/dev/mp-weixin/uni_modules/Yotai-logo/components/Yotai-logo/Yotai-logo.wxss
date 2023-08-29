@@ -1,0 +1,5 @@
+.logo image {
+  width: 750rpx;
+  height: 312rpx;
+}
+

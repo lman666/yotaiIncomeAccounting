@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "永泰数策",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "yotai-logo": "/uni_modules/Yotai-logo/components/Yotai-logo/Yotai-logo",
+    "yotai-energy-stor-input-of-easy-ver": "/uni_modules/Yotai-energyStorInputOfEasyVer/components/Yotai-energyStorInputOfEasyVer/Yotai-energyStorInputOfEasyVer",
+    "yotai-generation-input-of-easy-ver": "/uni_modules/Yotai-generationInputOfEasyVer/components/Yotai-generationInputOfEasyVer/Yotai-generationInputOfEasyVer",
+    "yotai-footer": "/uni_modules/Yotai-footer/components/Yotai-footer/Yotai-footer"
+  }
+}

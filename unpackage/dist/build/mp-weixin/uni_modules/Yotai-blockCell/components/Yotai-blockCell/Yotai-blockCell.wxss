@@ -1,0 +1,1 @@
+.blockCellBody{display:flex;flex-direction:column;justify-content:center;align-items:center;height:236rpx}.blockCellBody .num{font-weight:700}.blockCellBody .topic{color:#c3c3c3}

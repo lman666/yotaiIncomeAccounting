@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/dataInputOfEasyVersion/dataInputOfEasyVersion",
+    "pages/generationResOfEasyVer/generationResOfEasyVer",
+    "pages/energyStorResOfEasyVer/energyStorResOfEasyVer"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "永泰数策",
+    "navigationBarBackgroundColor": "#181818"
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "usingComponents": {}
+}

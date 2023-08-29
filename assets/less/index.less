@@ -1,0 +1,86 @@
+.formStyle {
+		width: 100%;
+		box-sizing: border-box;
+		background: #FFFFFF;
+		padding-left: 40rpx;
+		padding-right: 40rpx;
+	
+		/deep/ .uni-forms-item {
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			box-sizing: border-box;
+			height: 90rpx;
+			border-bottom: 2rpx solid #F3F3F3;
+			margin-bottom: 0;
+			padding-top: 40rpx;
+			font-size: 28rpx;
+	
+			.uni-forms-item__label {
+				box-sizing: border-box;
+				height: 40rpx;
+				padding: 0;
+				color: #000000;
+			}
+	
+			.uni-forms-item__content {
+				box-sizing: border-box;
+				flex: 1;
+				display: flex;
+				justify-content: flex-end;
+				height: 40rpx;
+	
+				.uni-forms-item__error {
+					left: unset;
+					right: 80rpx;
+				}
+	
+				input {
+					box-sizing: border-box;
+					flex: 1;
+					height: 40rpx;
+					min-height: 40rpx;
+					text-align: right;
+					line-height: 40rpx;
+					font-weight: bold;
+	
+					&.disabled {
+						color: #C3C3C3;
+						font-weight: normal;
+					}
+				}
+	
+				.unit {
+					margin-left: 12rpx;
+					display: inline-block;
+					text-align: right;
+					width: 70rpx;
+					height: 40rpx;
+					color: #C3C3C3;
+				}
+			}
+		}
+	}
+	
+	.query {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 160rpx;
+		background-color: #ffffff;
+		margin-top: 40rpx;
+	
+		button {
+			width: 670rpx;
+			height: 80rpx;
+			border-radius: 40rpx;
+			background-color: #28DDA7;
+			line-height: 80rpx;
+			font-size: 32rpx;
+			color: #ffffff;
+			
+			&::after {
+				border: unset;
+			}
+		}
+	}

@@ -1,0 +1,1 @@
+<view class="blockCellBody"><view class="num">{{''+num+''}}</view><view class="topic">{{''+label+''}}</view></view>

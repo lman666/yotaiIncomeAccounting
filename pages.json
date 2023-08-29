@@ -1,0 +1,32 @@
+{
+	"pages": [
+		{
+			"path": "pages/dataInputOfEasyVersion/dataInputOfEasyVersion",
+			"style": {
+				"navigationBarTitleText": "永泰数策",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/generationResOfEasyVer/generationResOfEasyVer",
+			"style": {
+				"navigationBarTitleText": "永泰数策",
+				"enablePullDownRefresh": false
+			}
+		
+		},
+		{
+			"path": "pages/energyStorResOfEasyVer/energyStorResOfEasyVer",
+			"style": {
+				"navigationBarTitleText": "永泰数策",
+				"enablePullDownRefresh": false
+			}
+		
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "永泰数策",
+		"navigationBarBackgroundColor": "#181818"
+	}
+}

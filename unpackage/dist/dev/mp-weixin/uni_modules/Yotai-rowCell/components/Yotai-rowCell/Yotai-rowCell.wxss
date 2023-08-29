@@ -1,0 +1,31 @@
+.cellBody.data-v-d4dc8ffe {
+  display: flex;
+  justify-content: space-between;
+  height: 90rpx;
+  border-bottom: 2rpx solid #F3F3F3;
+  font-size: 28rpx;
+  box-sizing: border-box;
+  padding-top: 40rpx;
+}
+.cellBody .left.data-v-d4dc8ffe {
+  width: 340rpx;
+}
+.cellBody .right.data-v-d4dc8ffe {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+.cellBody .right .res.data-v-d4dc8ffe {
+  font-weight: bold;
+}
+.cellBody .right .unit.data-v-d4dc8ffe {
+  width: 70rpx;
+  margin-left: 10rpx;
+  color: #C3C3C3;
+  text-align: right;
+}
+.totalSystemPower.data-v-d4dc8ffe {
+  height: 130rpx;
+  padding-top: 80rpx;
+}
+

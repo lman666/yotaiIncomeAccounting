@@ -1,0 +1,14 @@
+.blockCellBody {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 236rpx;
+}
+.blockCellBody .num {
+  font-weight: bold;
+}
+.blockCellBody .topic {
+  color: #C3C3C3;
+}
+

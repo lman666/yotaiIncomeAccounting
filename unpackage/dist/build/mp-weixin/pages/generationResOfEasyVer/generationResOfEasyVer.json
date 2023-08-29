@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "永泰数策",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "yotai-row-cell": "/uni_modules/Yotai-rowCell/components/Yotai-rowCell/Yotai-rowCell",
+    "yotai-footer": "/uni_modules/Yotai-footer/components/Yotai-footer/Yotai-footer"
+  }
+}

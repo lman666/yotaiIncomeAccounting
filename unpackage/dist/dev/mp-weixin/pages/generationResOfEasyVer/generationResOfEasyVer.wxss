@@ -1,0 +1,20 @@
+.body .topic {
+  font-weight: bold;
+  font-size: 32rpx;
+  margin-top: 40rpx;
+  text-align: center;
+}
+.body .title {
+  display: inline-block;
+  padding: 40rpx 0 20rpx 40rpx;
+}
+.body .info {
+  padding: 0 40rpx 40rpx 40rpx;
+  background-color: #fff;
+}
+.body .depthMeasurement {
+  width: 160rpx;
+  margin: 40rpx 0rpx 40rpx 546rpx;
+  color: #C3C3C3;
+}
+

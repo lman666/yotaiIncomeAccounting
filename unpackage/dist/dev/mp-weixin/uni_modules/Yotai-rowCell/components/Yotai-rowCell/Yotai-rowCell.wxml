@@ -1,0 +1,1 @@
+<view class="{{['data-v-d4dc8ffe','cellBody',isTotalSystemPower?'totalSystemPower':'']}}"><view class="left data-v-d4dc8ffe">{{''+label+''}}</view><view class="right data-v-d4dc8ffe"><view class="res data-v-d4dc8ffe">{{''+num+''}}</view><view class="unit data-v-d4dc8ffe">{{''+unit+''}}</view></view></view>
